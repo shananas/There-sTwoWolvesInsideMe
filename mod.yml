@@ -1,0 +1,10 @@
+title: Theres two wolves inside me
+originalAuthor: Shananas
+game: kh2
+assets:
+- name: 00objentry.bin
+  method: listpatch
+  type: List
+  source:
+  - name: ObjList.yml
+    type: objentry
